@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6531d0ce-d222-4b2f-b8ac-74fa2046b2e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heroes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json-simple-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDClass/CharacterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDClass/ClassFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDClass/Halflingy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDClass/Hobgoblin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/CharacterRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/HalflingFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/Halflingy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/Hobgoblin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/HobgoblinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/DnDRace/RaceAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCreator/Stats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataVisitor/DataElementsVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataVisitor/ElementVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/DndGui.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/DndGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="6531d0ce-d222-4b2f-b8ac-74fa2046b2e2" name="Changes" comment="Dnd Controller Interface">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -91,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667845473057</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dnd Controller Interface">
+      <created>1669063695272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669063695272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +89,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -118,5 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Dnd Controller Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dnd Controller Interface" />
   </component>
 </project>
